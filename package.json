@@ -1,0 +1,20 @@
+{
+  "name": "mxgraphpractise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@epicfaace/mxgraph": "^3.9.10"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.6.0",
+    "crud-file-server": "^0.10.0",
+    "webpack": "^4.28.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
